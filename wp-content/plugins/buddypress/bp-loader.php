@@ -1,5 +1,4 @@
 <?php
-//change for branch2
 /**
  * The BuddyPress Plugin.
  *
@@ -9,7 +8,7 @@
  * @subpackage Main
  * @since 1.0.0
  */
-
+//change for branch2
 /**
  * Plugin Name: BuddyPress
  * Plugin URI:  https://buddypress.org/
