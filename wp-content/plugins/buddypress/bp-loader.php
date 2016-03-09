@@ -35,6 +35,7 @@ if ( !class_exists( 'BuddyPress' ) ) :
  *
  * @since 1.6.0
  */
+//change for branch4
 class BuddyPress {
 
 	/** Magic *****************************************************************/
